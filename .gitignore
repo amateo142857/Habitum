@@ -1,0 +1,26 @@
+# Datos personales (NO subir a Git)
+datos/
+exportados/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Entornos y configuraciones
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
