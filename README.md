@@ -24,7 +24,7 @@ Aplicación de escritorio para registrar hábitos diarios, visualizar progreso, 
 
 ## 🖼️ Capturas
 
-*(Aquí puedes poner screenshots de tu app)*
+![Vista principal](screenshots/foto.png)
 
 ## 🚀 Instalación
 
